@@ -1,6 +1,6 @@
 import cv2
 import torch
-import streamlit as st
+import streamlit as st  # Try to turn into Application
 import torchvision.transforms as transforms
 from PIL import Image
 import numpy as np
