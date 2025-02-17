@@ -15,7 +15,7 @@ import os
 
 
 #Dataset Directory
-data_dir = pathlib.Path("C:/Users/nicch/Documents/Programming/Python/Broken Phone Machine Vision/data/Good_N_Broken/DA")
+data_dir = pathlib.Path("C:/.../Broken Phone Machine Vision/data/Good_N_Broken/DA")
 train_dir = os.path.join(data_dir, "Train")
 val_dir = os.path.join(data_dir, "Validation")
 print(train_dir)
